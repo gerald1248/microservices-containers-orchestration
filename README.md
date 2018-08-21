@@ -1,5 +1,7 @@
 # Microservices, containers, orchestration
 
+![HA cluster configuration](assets/img/ha.png?raw=true "HA cluster configuration")
+
 To view the presentation in a browser, simply enter...
 ```
 $ make
