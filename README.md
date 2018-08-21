@@ -1,6 +1,6 @@
 # Microservices, containers, orchestration
 
-<img src="assets/img/ha.png" width="250" alt="HA service configuration"/>
+<img src="assets/img/ha.png" width="400" alt="HA service configuration"/>
 
 To view the presentation in a browser, simply enter...
 ```
