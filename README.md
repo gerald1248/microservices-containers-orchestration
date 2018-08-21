@@ -1,6 +1,6 @@
 # Microservices, containers, orchestration
 
-![HA cluster configuration](assets/img/ha.png?raw=true "HA cluster configuration")
+<img src="assets/img/ha.png" width="250" alt="HA service configuration"/>
 
 To view the presentation in a browser, simply enter...
 ```
